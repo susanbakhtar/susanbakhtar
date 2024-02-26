@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Susan+Bakhtar;A+Front+developer;Nice+to+meet+you!&center=true&size=26&color=821FF7&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Susan+Bakhtar;A+Front+End+developer;Nice+to+meet+you!&center=true&size=26&color=821FF7&background=FFFFFF00">
   </a>
 </h1>
 
@@ -12,7 +12,7 @@
 
 * 🌍  I'm based in Gerash,IRI
 * ✉️  You can contact me at [bakhtarsusan@gmail.com](mailto:bakhtarsusan@gmail.com)
-* 🧠  I am learning js
+* 🧠  I am learning javascript
 
 
 <a href="https://www.github.com/susanbakhtar" target="_blank" rel="noreferrer"><img
